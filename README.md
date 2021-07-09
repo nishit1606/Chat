@@ -1,5 +1,5 @@
 # chatapp
-
+A Basic Chat app 
 A new Flutter project.
 
 ## Getting Started
